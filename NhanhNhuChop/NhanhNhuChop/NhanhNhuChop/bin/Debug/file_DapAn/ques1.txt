@@ -1,0 +1,83 @@
+CH011
+Loài động vật nào có da dày nhất?
+Voi
+Trâu
+Tê giác
+Cá voi
+Tê giác
+CH012
+Ăn cùng... ngủ cùng chiếu
+Bát
+Đũa
+Mâm
+Nồi
+Mâm
+CH013
+Quốc gia có diện tích lớn thứ hai thế giới?
+Mỹ
+Canada
+Trung Quốc
+Nga
+Canada
+CH014
+Ông già Noel cưỡi con gì đi phát quà ?
+Nai
+Hươu
+Tuần lộc
+Ngựa
+Tuần lộc
+CH015
+Tổ của loài sâu khi biến thành bướm gọi là?
+Kén
+Ó
+Vỏ
+Da
+Kén
+CH075
+3 con gà đẻ 3 quả trứng trong 3 ngày. Vậy trong 12 ngày, 12 con gà đẻ được bao nhiêu quả trứng?
+42
+44
+46
+48
+48
+CH155
+Cầu gì mà nhỏ nhất mà nhà ai cũng có ?
+Cầu tiêu
+Cầu lông 
+Cầu vồng
+Cầu dao , cầu chì
+Cầu dao , cầu chì
+CH156 
+Ai là người đầu tiên cầm quả bóng vàng ?
+Tùng sơn
+Ronaldo
+Messi
+Thợ gia công
+Thợ gia công
+CH157
+Một trang trại có 500 con cừu , đã mất đi 50 con . Hỏi cha đứa bé là ai ?
+Thằng trộm cừu
+Con người
+Con nhà người ta
+Không biết
+Con người
+CH158
+Ba thằng mù và ba thằng điếc đi ăn phở với giá 20.000 một tô . Hỏi sẽ phải trả hết bao nhiêu tiền ?
+120.000 VNĐ
+40.000 VNĐ
+Éo biết
+50.000 VNĐ
+40.000 VNĐ
+CH159
+Đàn ông sinh ra để đàn bà nhờ vả không được thì vả . Đàn bà sinh ra để đàn ông ăn hiếp không ăn được thì .....?
+Nghĩ bậy à nha
+Nhịn
+Làm gì thì hỏi đàn bà ?
+Hiếp
+Nhịn
+Nhịn
+
+
+
+
+

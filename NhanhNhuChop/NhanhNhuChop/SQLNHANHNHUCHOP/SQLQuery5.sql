@@ -1,0 +1,1 @@
+select Email from TaiKhoanNguoiDung inner join ThongTinCaNhan on TaiKhoanNguoiDung.IDNguoiChoi = ThongTinCaNhan.IDNguoiChoi where TaiKhoanNguoiDung.TenDangNhap = 'leexuyen01' AND ThongTinCaNhan.Email is null

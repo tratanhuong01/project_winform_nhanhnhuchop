@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SlideShow">
+</Property><Property Name="Solution File" Value="D:\images\SlideShow\SlideShow\SlideShow.sln">
+</Property><Property Name="User Options File" Value="D:\images\SlideShow\SlideShow\SlideShow.suo">
+</Property><Property Name="Date" Value="Sunday, June 14, 2020">
+</Property><Property Name="Time" Value="6:47 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SlideShow.sln" Description="File successfully backed up as D:\images\SlideShow\SlideShow\Backup\SlideShow.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SlideShow.suo" Description="File successfully backed up as D:\images\SlideShow\SlideShow\Backup\SlideShow.suo">
+</Event><Event ErrorLevel="0" Project="SlideShow" Source="SlideShow\SlideShow.csproj" Description="Project file successfully backed up as D:\images\SlideShow\SlideShow\Backup\SlideShow\SlideShow.csproj">
+</Event><Event ErrorLevel="0" Project="SlideShow" Source="SlideShow\Form1.cs" Description="File successfully backed up as D:\images\SlideShow\SlideShow\Backup\SlideShow\Form1.cs">
+</Event><Event ErrorLevel="0" Project="SlideShow" Source="SlideShow\Form1.Designer.cs" Description="File successfully backed up as D:\images\SlideShow\SlideShow\Backup\SlideShow\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SlideShow" Source="SlideShow\Program.cs" Description="File successfully backed up as D:\images\SlideShow\SlideShow\Backup\SlideShow\Program.cs">
+</Event><Event ErrorLevel="0" Project="SlideShow" Source="SlideShow\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\images\SlideShow\SlideShow\Backup\SlideShow\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SlideShow" Source="SlideShow\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\images\SlideShow\SlideShow\Backup\SlideShow\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SlideShow" Source="SlideShow\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\images\SlideShow\SlideShow\Backup\SlideShow\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SlideShow" Source="SlideShow\Properties\Settings.settings" Description="File successfully backed up as D:\images\SlideShow\SlideShow\Backup\SlideShow\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SlideShow" Source="SlideShow\Form1.resx" Description="File successfully backed up as D:\images\SlideShow\SlideShow\Backup\SlideShow\Form1.resx">
+</Event><Event ErrorLevel="0" Project="SlideShow" Source="SlideShow\Properties\Resources.resx" Description="File successfully backed up as D:\images\SlideShow\SlideShow\Backup\SlideShow\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SlideShow" Source="SlideShow\SlideShow.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SlideShow" Source="SlideShow\SlideShow.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SlideShow.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SlideShow.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SlideShow" Source="SlideShow\SlideShow.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,15 @@
+\\vmware-host\Shared Folders\Documents\Visual Studio 2008\Projects\SlideShow\SlideShow\bin\Debug\SlideShow.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2008\Projects\SlideShow\SlideShow\bin\Debug\SlideShow.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2008\Projects\SlideShow\SlideShow\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2008\Projects\SlideShow\SlideShow\obj\Debug\SlideShow.frmSlideShow.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2008\Projects\SlideShow\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2008\Projects\SlideShow\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2008\Projects\SlideShow\SlideShow\obj\Debug\SlideShow.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2008\Projects\SlideShow\SlideShow\obj\Debug\SlideShow.pdb
+D:\images\SlideShow\SlideShow\SlideShow\obj\Debug\SlideShow.exe
+D:\images\SlideShow\SlideShow\SlideShow\obj\Debug\SlideShow.pdb
+D:\images\SlideShow\SlideShow\SlideShow\bin\Debug\SlideShow.exe
+D:\images\SlideShow\SlideShow\SlideShow\bin\Debug\SlideShow.pdb
+D:\images\SlideShow\SlideShow\SlideShow\obj\Debug\SlideShow.frmSlideShow.resources
+D:\images\SlideShow\SlideShow\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+D:\images\SlideShow\SlideShow\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.Cache

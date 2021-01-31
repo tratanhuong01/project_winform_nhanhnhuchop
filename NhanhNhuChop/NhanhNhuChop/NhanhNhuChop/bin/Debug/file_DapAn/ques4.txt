@@ -1,0 +1,63 @@
+CH041
+Có một đàn vịt, cho biết 1 con đi trước thì có 2 con đi sau, 1 con đi sau thì có 2 con đi trước, 1 con đi giữa thì có 2 con đi 2 bên. Hỏi đàn vịt đó có mấy con?
+1
+2
+3
+4
+3
+CH042
+Sở thú bị cháy, con gì chạy ra đầu tiên?
+Con chim
+Con rắn
+Con người
+Con tê giác
+Con người
+CH043
+Con Hổ bị xích vào gốc cây, sợi xích dài 30m. Có 1 bụi cỏ cách đấy 31m, làm sao con Hổ ăn được bụi cỏ?
+Cắn đứt xích
+Húc đổ cây
+Gọi đồng bọn đến
+Không khả thi
+Không khả thi
+CH044
+Người đẹp Monalisa không có thứ gì?
+Tiền
+Chồng
+Lông chân
+Lông mày
+Lông mày
+CH045
+Cha của Ly có 5 người con tên thứ Nhất, thứ Hai, thứ Ba, thứ Năm, hỏi tên của người con thứ 5 là gì?
+Thứ 6
+Ly
+Út
+Cả
+Ly
+CH181
+Có một con cọp bị trói ở cây có một bó cỏ cách nó 5m hỏi làm sao nó ăn ?
+Cắn cái dây 
+Nhịn
+Kêu người tới giúp
+Độn thổ
+Nhịn
+CH182
+Làm sao để qua câu này ?
+Bấm tiếp tục
+Bấm đáp án 1
+Bấm đáp án 2 
+Bấm đáp án 3
+Bấm tiếp tục
+CH183
+Có một bà già đi vòng quanh thế giới . Xong đi lên núi rồi lại vòng quanh thế giới hỏi bà đi mua gì ?
+Đi mua bột giặt quần áo
+Đi tìm chồng
+Mua bim bim o'star
+Đi mua đất
+Đi mua bột giặt quần áo
+CH184
+Những người đầu tiên bị rơi xuống nước sẽ bị làm sao ?
+Chảy máu
+Chết đuối
+Bị ướt quần áo
+Chả làm sao cả
+Bị ướt quần áo

@@ -1,0 +1,1 @@
+SELECT IDLichSu FROM LichSuNguoiChoi WHERE IDNguoiChoi = '81728'

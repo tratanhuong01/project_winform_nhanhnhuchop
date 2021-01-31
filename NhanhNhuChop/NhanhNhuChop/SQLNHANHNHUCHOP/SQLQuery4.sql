@@ -1,0 +1,1 @@
+SELECT TenDangNhap FROM TaiKhoanNguoiDung WHERE TenDangNhap = 'tratanhuong01'

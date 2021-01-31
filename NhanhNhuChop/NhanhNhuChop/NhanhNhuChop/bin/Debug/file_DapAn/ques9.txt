@@ -1,0 +1,69 @@
+CH091
+Bà đó bả chết bả bay lên trời. Hỏi bà ấy chết năm bao nhiêu tuổi và tại sao bà ấy chết?
+62 
+97
+89
+73
+73
+CH092
+2 con vịt đi trước 2 con vịt, 2 con vịt đi sau 2 con vịt, 2 con vịt đi giữa 2 con vịt. Hỏi có bao nhiêu con vịt?
+1
+3
+4
+5
+4
+Có 2 người: 1 lớn, 1 bé đi lên đỉnh một quả núi. Người bé là con của người lớn, nhưng người lớn lại không phải cha của người bé, hỏi người lớn là ai?
+Mẹ
+Cha
+Gì
+Chú
+Mẹ
+CH095
+Có 3 thằng lùn xếp hàng dọc đi vào hang. Thằng đi sau cầm 1 cái xô, thằng đi giữa cầm 1 cái xẻng, hỏi thằng đi trước cầm gì?
+Cầm đầu
+Cầm chân
+Cầm tay
+Cầm theo
+Cầm đầu
+CH250
+Một cây cầu có trọng tải là 10 tấn, có nghĩa là nếu vượt quá trọng tải trên 10 tấn thì cây cầu sẽ sập. Và có một chiếc xe tải chở hàng, tổng trọng tải của xe 8 tấn + hàng 4 tấn = 12 tấn. Vậy đố các bạn làm sao bác tài qua được cây cầu này mà không được bớt hàng ra khỏi xe?
+Bỏ về nhà
+Nhảy xuống cầu
+Liều luôn
+Bác tài cứ qua , còn xe thì để lại
+Bác tài cứ qua , còn xe thì để lại
+CH251
+Ông ta xuất phát từ nhà đi theo hướng nam 2km, rồi đi tiếp sang hướng đông 3km. Sau đó ông ta đi theo hướng bắc 2km thì về đến nhà. Tại sao vậy?
+Vì nhà ông ở cực Nam của trái đất
+Vì nhà ông ở cực Bắc của trái đất
+Vì nhà ông ở cực Đông của trái đất
+Vì nhà ông ở cực Tây của trái đất
+Vì nhà ông ở cực Bắc của trái đất
+CH252
+Cho a = 1 x 1, b = 2 x 2, c = 3 x 3, d = 4 x 4... Cứ như vậy với một bảng chữ cái. Tính (x - a) x (x - b) x... x (x - y).
+0 
+1
+2
+3
+0
+CH253
+Trong một trò chơi dân gian, 5 thắng 0, 0 thắng 2 còn 2 thắng 5. Hỏi vì sao vậy?
+Oẳn tù tì
+Kéo co
+Rồng rắn lên mây
+Nhảy dây
+Oẳn tù tì
+CH254
+Có 1 con trâu. Đầu nó thì hướng về hướng mặt trời mọc, nó quay trái 2 vòng sau đó quay ngược lại sau đó lại quay phải hay vòng hỏi cái đuôi của nó chỉ hướng nào?
+Chỉ bên phải
+Chỉ bên trái
+Chỉ xuống đất
+Chỉ lên trên
+Chỉ xuống đất
+CH255
+Nó là của bạn nhưng bạn lại dùng ít, người quen biết với bạn dùng nó nhiều hơn. Nó là gì?
+Tên của bạn
+Bút chì
+Tiền
+Nhà
+Tên của bạn
