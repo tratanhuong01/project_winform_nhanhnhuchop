@@ -9,7 +9,7 @@ namespace NhanhNhuChop
     class MyConnect
     {
         public SqlConnection conn;
-        public String connectString = @"Data Source=DESKTOP-9VUDH2B;Initial Catalog=NhanhNhuChop;Integrated Security=True";
+        public String connectString = @"Data Source=DESKTOP-9VUDH2B\SQLEXPRESS;Initial Catalog=NhanhNhuChop;Integrated Security=True";
         public void Connect()
         {
             try

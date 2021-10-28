@@ -18,3 +18,13 @@ D:\NhanhNhuChop\NhanhNhuChop\QuanTriVien\obj\x86\Debug\QuanTriVien.Properties.Re
 D:\NhanhNhuChop\NhanhNhuChop\QuanTriVien\obj\x86\Debug\QuanTriVien.csproj.GenerateResource.Cache
 D:\NhanhNhuChop\NhanhNhuChop\QuanTriVien\obj\x86\Debug\QuanTriVien.exe
 D:\NhanhNhuChop\NhanhNhuChop\QuanTriVien\obj\x86\Debug\QuanTriVien.pdb
+D:\Main\project_winform_nhanhnhuchop\NhanhNhuChop\NhanhNhuChop\QuanTriVien\bin\Debug\QuanTriVien.exe
+D:\Main\project_winform_nhanhnhuchop\NhanhNhuChop\NhanhNhuChop\QuanTriVien\bin\Debug\QuanTriVien.pdb
+D:\Main\project_winform_nhanhnhuchop\NhanhNhuChop\NhanhNhuChop\QuanTriVien\obj\x86\Debug\QuanTriVien.csprojResolveAssemblyReference.cache
+D:\Main\project_winform_nhanhnhuchop\NhanhNhuChop\NhanhNhuChop\QuanTriVien\obj\x86\Debug\QuanTriVien.Admin_NguoiChoi.resources
+D:\Main\project_winform_nhanhnhuchop\NhanhNhuChop\NhanhNhuChop\QuanTriVien\obj\x86\Debug\QuanTriVien.Admin_CauHoi.resources
+D:\Main\project_winform_nhanhnhuchop\NhanhNhuChop\NhanhNhuChop\QuanTriVien\obj\x86\Debug\QuanTriVien.Admin_TienThuong.resources
+D:\Main\project_winform_nhanhnhuchop\NhanhNhuChop\NhanhNhuChop\QuanTriVien\obj\x86\Debug\QuanTriVien.Properties.Resources.resources
+D:\Main\project_winform_nhanhnhuchop\NhanhNhuChop\NhanhNhuChop\QuanTriVien\obj\x86\Debug\QuanTriVien.csproj.GenerateResource.Cache
+D:\Main\project_winform_nhanhnhuchop\NhanhNhuChop\NhanhNhuChop\QuanTriVien\obj\x86\Debug\QuanTriVien.exe
+D:\Main\project_winform_nhanhnhuchop\NhanhNhuChop\NhanhNhuChop\QuanTriVien\obj\x86\Debug\QuanTriVien.pdb
